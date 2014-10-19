@@ -1,0 +1,9 @@
+name: Trade
+version: 0.1
+main: me.trading.TradingPlugin
+description: Coded by PermissonsEX
+
+commands:
+     trade:
+         usage: /<command>
+         description: Main command.
